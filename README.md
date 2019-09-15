@@ -3,7 +3,7 @@ XTakenFace is Face Recognition system.
 
 ```
     [+] AUTOR:        Yasser Janah
-    [+] GITHUB:       https://github.com/Y4SS3R005
+    [+] GITHUB:       https://github.com/yasserjanah
     [+] TWITTER:      https://twitter.com/yasser_janah
     [+] FACEBOOK:     https://facebook.com/yasser.janah
 ```
