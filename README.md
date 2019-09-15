@@ -8,7 +8,7 @@ XTakenFace is Face Recognition system.
     [+] FACEBOOK:     https://facebook.com/yasser.janah
 ```
 
-[![xtakenface](https://i.ibb.co/Fzyw4rX/XTAKENFACE.png)]
+![xtakenface](https://i.ibb.co/Fzyw4rX/XTAKENFACE.png)
 
 
 # the source code
